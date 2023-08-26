@@ -15,6 +15,7 @@ email!: string;
 constructor(private router: Router) {
 }
 
+//
 
 iniciarSesion() {
   if (this.password == "123456"){
