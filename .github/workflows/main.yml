@@ -24,3 +24,6 @@ jobs:
       
     - name: Push
       run: docker push pichonga/selenium-macri:${{ github.sha }}
+
+    - name: Run Selenium tests
+      run: node src/sample.test.js
