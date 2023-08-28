@@ -21,4 +21,4 @@ jobs:
       run: npm install
 
     - name: run test
-      run: node src/sample.test.js
+      run: npm run sample-test
