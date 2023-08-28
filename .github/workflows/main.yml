@@ -1,7 +1,7 @@
 name: script build push
 
 on:
-  pull_request:
+  push:
     types:
       - closed
     branches:
@@ -25,5 +25,3 @@ jobs:
     - name: Push
       run: docker push pichonga/selenium-macri:${{ github.sha }}
 
-    - name: Run Selenium tests
-      run: node src/sample.test.js

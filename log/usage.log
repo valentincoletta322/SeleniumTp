@@ -1,0 +1,13 @@
+2023-08-28 15:11:06 - [32minfo[39m: Reading configs from /home/gachu2/Escritorio/SeleniumTp-main/browserstack.yml
+2023-08-28 15:11:06 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-08-28 15:11:09 - [32minfo[39m: Local binary started successfully
+2023-08-28 15:11:10 - [32minfo[39m: Getting your jest configs from package.json
+2023-08-28 15:11:10 - [32minfo[39m: Modifying jest configs to run tests on BrowserStack
+2023-08-28 15:11:10 - [32minfo[39m: Creating jest_browserstack.config.js with browserstack jest configs
+2023-08-28 15:11:10 - [32minfo[39m: Showing jest logs and reporter logs.
+2023-08-28 15:11:12 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-08-28 15:11:12 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-08-28 15:11:12 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-08-28 15:11:45 - [32minfo[39m: Deleting jest_browserstack.config.js
+2023-08-28 15:11:46 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/2657522043e437dc9e7838cf593dcb42bda9fbef
+2023-08-28 15:11:48 - [32minfo[39m: Local binary stopped
